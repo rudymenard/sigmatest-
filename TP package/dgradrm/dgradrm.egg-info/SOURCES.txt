@@ -1,0 +1,8 @@
+setup.py
+dgradrm.egg-info/PKG-INFO
+dgradrm.egg-info/SOURCES.txt
+dgradrm.egg-info/dependency_links.txt
+dgradrm.egg-info/requires.txt
+dgradrm.egg-info/top_level.txt
+src/TPClasses.py
+src/__init__.py
